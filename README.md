@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="dashboard_Bottom png" src="https://github.com/user-attachments/assets/083ea989-e838-4651-8f43-a8408cc8796e" /><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eedb3481-84dc-4278-8c82-856122e45334" /># 🟡 Blinkit Sales Analytics Dashboard
+# 🟡 Blinkit Sales Analytics Dashboard
 
 ## Project Overview
 An interactive Excel dashboard analyzing 1000 Blinkit orders across 8 Indian cities from January 2025 to July 2026.
